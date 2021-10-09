@@ -28,7 +28,7 @@ Our model achieves the following performance on :
 
 ## Demo Page
 
-[Demo](https://cslikai.cn/project/AFRCNN)
+- [Demo](https://cslikai.cn/project/AFRCNN)
 
 ## Reference
 
