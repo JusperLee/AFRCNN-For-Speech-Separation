@@ -26,6 +26,10 @@ Our model achieves the following performance on :
 
 ![](./results.png)
 
+## Demo Page
+
+[Demo](https://cslikai.cn/project/AFRCNN)
+
 ## Reference
 
 - [SudoRM-RF](https://github.com/etzinis/sudo_rm_rf)
