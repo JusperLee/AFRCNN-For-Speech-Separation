@@ -8,11 +8,11 @@
 This repository is the official implementation of [Speech Separation Using an Asynchronous Fully Recurrent Convolutional Neural Network](https://cslikai.cn/project/AFRCNN). 
 
 ```
-@inproceedings{kainips2021,
-  title = {Speech Separation Using an Asynchronous FullyRecurrent Convolutional Neural Network},
-  author = {Xiaolin Hu, Kai Li, Weiyi Zhang, Yi Luo, Jean-Marie Lemercier, Timo Gerkmann},
-  booktitle = {NeurIPS},
-  year = {2021}
+@inproceedings{afrcnn2021nips,
+  title={Speech Separation Using an Asynchronous Fully Recurrent Convolutional Neural Network},
+  author={Hu, Xiaolin and Li, Kai and Zhang, Weiyi and Luo, Yi and Lemercier, Jean-Marie and Gerkmann, Timo},
+  booktitle={NeurIPS},
+  year={2021}
 }
 ```
 
