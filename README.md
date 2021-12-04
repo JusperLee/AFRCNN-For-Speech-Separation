@@ -5,7 +5,7 @@
 -->
 # Speech Separation Using an Asynchronous Fully Recurrent Convolutional Neural Network
 
-This repository is the official implementation of [Speech Separation Using an Asynchronous Fully Recurrent Convolutional Neural Network](https://cslikai.cn/project/AFRCNN). 
+This repository is the official implementation of [Speech Separation Using an Asynchronous Fully Recurrent Convolutional Neural Network](https://cslikai.cn/project/AFRCNN) [Paper link](https://openreview.net/pdf?id=SlxH2AbBBC2). 
 
 ```
 @inproceedings{afrcnn2021nips,
